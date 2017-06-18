@@ -14,3 +14,6 @@ _test-output
 _temp
 /src/app/nbproject/private/
 /src/app/nbproject/
+/src/JavaSwing/nbproject/private/
+/src/JavaSwing/build/
+/src/JavaApplication7/nbproject/private/
